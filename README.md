@@ -1,6 +1,6 @@
 # flutter_counter
 
-A new Flutter project.
+참고 예제 : https://bloclibrary.dev/#/fluttercountertutorial
 
 ## Getting Started
 
